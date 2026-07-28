@@ -1,4 +1,4 @@
-## I am a Computer Science student in the University of Twente  
+## I am a Computer Science student at the University of Twente  
 
 ###
 
