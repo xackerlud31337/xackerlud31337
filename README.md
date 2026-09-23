@@ -34,7 +34,7 @@ ivan@xackerlud:~$ ./currently --status
 <!-- ============ TRYHACKME ============ -->
 <p align="center">
   <a href="https://tryhackme.com/p/xackerlud">
-    <img src="https://github.com/xackerlud31337/tryhackme-profile-badge/raw/main/assets/uploadme.png" alt="TryHackMe" width="380" />
+    <img src="thm.png" alt="TryHackMe" width="380" />
   </a>
 </p>
 
