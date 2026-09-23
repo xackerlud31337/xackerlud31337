@@ -23,7 +23,7 @@ ivan@xackerlud:~$ whoami
 CS student @ University of Twente  →  MSc Cybersecurity @ TU Delft (2027)
 
 ivan@xackerlud:~$ cat focus.txt
-web pentesting · bug bounty · reverse engineering · post-quantum crypto
+web pentesting · bug bounty · software engineering
 
 ivan@xackerlud:~$ ./currently --status
 [*] HTB Academy — Web Penetration Tester path (CWES)
@@ -45,24 +45,6 @@ ivan@xackerlud:~$ echo $MOTTO
 **Build**
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,java,haskell,mysql,arduino&theme=dark" />
-</p>
-
-<!-- ============ FEATURED ============ -->
-### `> featured`
-
-| Project | What it is |
-|---|---|
-| [**Parser_In_Haskell**](https://github.com/xackerlud31337/Parser_In_Haskell) | Interpreter for a custom functional language: BNFC parsing, type checking, evaluation |
-| [**CaptureGo**](https://github.com/xackerlud31337/CaptureGo) | Capture Go in Java with a game server and two AI opponents |
-| [**arbitraj**](https://github.com/xackerlud31337/arbitraj) | Arbitrage detection & notification bot |
-
-<!-- ============ SNAKE ============ -->
-<br/>
-<p align="center">
-  <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-  <!-- Your own snake (after adding the snake workflow):
-  <img src="https://raw.githubusercontent.com/xackerlud31337/xackerlud31337/output/snake-dark.svg" alt="snake" />
-  -->
 </p>
 
 <p align="center">
