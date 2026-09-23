@@ -1,36 +1,70 @@
-## I am a Computer Science student at the University of Twente  
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=170&section=header&text=xackerlud&fontColor=00ff9c&fontSize=52&fontAlignY=38&desc=Ivan%20Mandev&descAlignY=60&descSize=18" width="100%" />
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=I+don't+guess+passwords.;I+reverse+engineer+trust.;%3E+offensive+security+%2F+bug+bounty;%3E+post-quantum+cryptography;%3E+CS+%40+University+of+Twente" alt="typing tagline" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+<p align="center">
+  <a href="https://www.xackerlud.com"><img src="https://img.shields.io/badge/xackerlud.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff9c" /></a>
+  <!-- Uncomment and fill in when you want them visible:
+  <a href="https://app.hackthebox.com/profile/YOUR_ID"><img src="https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9fef00" /></a>
+  <a href="https://hackerone.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/HackerOne-0d1117?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
+  -->
+</p>
 
-###
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+---
 
-###
+<!-- ============ WHOAMI ============ -->
+```console
+ivan@xackerlud:~$ whoami
+CS student @ University of Twente  →  MSc Cybersecurity @ TU Delft (2027)
+
+ivan@xackerlud:~$ cat focus.txt
+web pentesting · bug bounty · reverse engineering · post-quantum crypto
+
+ivan@xackerlud:~$ ./currently --status
+[*] HTB Academy — Web Penetration Tester path (CWES)
+[*] PortSwigger Web Security Academy labs
+[*] Building tools on the side & freelance web dev
+
+ivan@xackerlud:~$ echo $MOTTO
+"I don't guess passwords. I reverse engineer trust."
+```
+
+<!-- ============ ARSENAL ============ -->
+### `> arsenal`
+
+**Offense & systems**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git&theme=dark" />
+</p>
+
+**Build**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,java,haskell,mysql,arduino&theme=dark" />
+</p>
+
+<!-- ============ FEATURED ============ -->
+### `> featured`
+
+| Project | What it is |
+|---|---|
+| [**Parser_In_Haskell**](https://github.com/xackerlud31337/Parser_In_Haskell) | Interpreter for a custom functional language: BNFC parsing, type checking, evaluation |
+| [**CaptureGo**](https://github.com/xackerlud31337/CaptureGo) | Capture Go in Java with a game server and two AI opponents |
+| [**arbitraj**](https://github.com/xackerlud31337/arbitraj) | Arbitrage detection & notification bot |
+
+<!-- ============ SNAKE ============ -->
+<br/>
+<p align="center">
+  <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <!-- Your own snake (after adding the snake workflow):
+  <img src="https://raw.githubusercontent.com/xackerlud31337/xackerlud31337/output/snake-dark.svg" alt="snake" />
+  -->
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" width="100%" />
+</p>
