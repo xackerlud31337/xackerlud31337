@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=I+don't+guess+passwords.;I+reverse+engineer+trust.;%3E+offensive+security+%2F+bug+bounty;%3E+post-quantum+cryptography;%3E+CS+%40+University+of+Twente" alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=620&lines=I+don't+guess+passwords.;I+reverse+engineer+trust.;%3E+offensive+security+%2F+bug+bounty;%3E+Software+engineering;%3E+CS+%40+University+of+Twente" alt="typing tagline" />
 </p>
 
 <p align="center">
