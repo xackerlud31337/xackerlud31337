@@ -31,6 +31,13 @@ ivan@xackerlud:~$ ./currently --status
 [*] Building tools on the side & freelance web dev
 ```
 
+<!-- ============ TRYHACKME ============ -->
+<p align="center">
+  <a href="https://tryhackme.com/p/xackerlud">
+    <img src="https://github.com/xackerlud31337/tryhackme-profile-badge/raw/main/assets/uploadme.png" alt="TryHackMe" width="380" />
+  </a>
+</p>
+
 <!-- ============ ARSENAL ============ -->
 ### `> arsenal`
 
