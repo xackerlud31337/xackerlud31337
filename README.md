@@ -29,9 +29,6 @@ ivan@xackerlud:~$ ./currently --status
 [*] HTB Academy — Web Penetration Tester path (CWES)
 [*] PortSwigger Web Security Academy labs
 [*] Building tools on the side & freelance web dev
-
-ivan@xackerlud:~$ echo $MOTTO
-"I don't guess passwords. I reverse engineer trust."
 ```
 
 <!-- ============ ARSENAL ============ -->
